@@ -8,5 +8,5 @@ void main() {
   print('Nama: $nama');
   print('Umur: $umur');
   print('Tinggi: $tinggi');
-  print('Status: ${statusAktif ? "Aktif" : "Tidak Aktif"}');
+  print('Status: ${statusAktif ? "Aktif" : "Tidak Aktif"}');
 }
